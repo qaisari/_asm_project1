@@ -1,0 +1,88 @@
+﻿  attempt3.cpp
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(27,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(28,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(28,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(28,13): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(29,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(29,13): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(29,13): error C2065: 'ebx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(30,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(30,13): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(30,13): error C2065: 'esi': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(31,9): error C2065: 'lea': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(31,13): error C2146: syntax error: missing ';' before identifier 'edi'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(31,13): error C2065: 'edi': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(34,9): error C2065: 'cmp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(34,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(34,13): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(34,18): error C2065: 'esi': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(35,9): error C2065: 'jge': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(35,13): error C2146: syntax error: missing ';' before identifier 'loop_end'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(35,13): error C2065: 'loop_end': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,9): error C2065: 'fld': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,13): error C2146: syntax error: missing ';' before identifier 'qword'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,13): error C2065: 'qword': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,19): error C2065: 'ptr': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(37,31): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,9): error C2065: 'fistp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,15): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,15): error C2065: 'dword': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,21): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,21): error C2065: 'ptr': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(38,26): error C2065: 'esp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(39,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(39,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(39,13): error C2065: 'eax': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(39,22): error C3481: 'esp': lambda capture variable not found
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(39,23): error C3260: ';': skipping unexpected token(s) before lambda body
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(60,9): error C2065: 'push': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(60,14): error C2146: syntax error: missing ';' before identifier 'even_nums'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(60,14): error C2065: 'even_nums': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(61,9): error C2065: 'call': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(61,14): error C2146: syntax error: missing ';' before identifier 'printf'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(61,14): warning C4551: function call missing argument list
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(62,9): error C2065: 'add': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(62,13): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(69,5): error C2143: syntax error: missing ';' before 'const'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(70,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(71,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(71,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(71,13): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(72,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(72,13): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(72,13): error C2065: 'ebx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(75,9): error C2065: 'cmp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(75,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(75,13): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(75,18): error C2065: 'ebx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(76,9): error C2065: 'jge': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(76,13): error C2146: syntax error: missing ';' before identifier 'loop_finish'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(76,13): error C2065: 'loop_finish': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,9): error C2065: 'fld': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,13): error C2146: syntax error: missing ';' before identifier 'qword'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,13): error C2065: 'qword': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,19): error C2065: 'ptr': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(78,31): error C2065: 'ecx': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,9): error C2065: 'fstp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,14): error C2146: syntax error: missing ';' before identifier 'qword'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,14): error C2065: 'qword': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,20): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,20): error C2065: 'ptr': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(79,24): error C2065: 'rsp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(80,9): error C2065: 'push': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(80,14): error C2146: syntax error: missing ';' before identifier 'rsp'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(80,14): error C2065: 'rsp': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(81,9): error C2065: 'push': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(81,14): error C2146: syntax error: missing ';' before identifier 'output'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(82,9): error C2065: 'call': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(82,14): error C2146: syntax error: missing ';' before identifier 'printf'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(82,14): warning C4551: function call missing argument list
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(97,9): error C2065: 'mov': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(97,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(97,13): error C2065: 'eax': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(98,13): error C2065: 'edi': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(98,16): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(98,18): error C2065: 'edi': undeclared identifier
+C:\Users\qaisa\Desktop\NJE-second-semester\Computer architecture\myCode\attempt3\attempt3.cpp(111,1): fatal error C1004: unexpected end-of-file found
