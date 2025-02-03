@@ -3,7 +3,7 @@
 #include <ctime>   // For time()
 #include <cstdio>
 using namespace std;
-//this is an attempt to use some asm and understand more the logic inside the machine
+
 int main()
 {
     int N = 1;
