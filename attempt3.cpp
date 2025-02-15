@@ -3,7 +3,7 @@
 #include <ctime>   // For time()
 #include <cstdio>
 using namespace std;
-//This is a schoole work to get used to working with assembly
+
 int main()
 {
     int N = 1;
